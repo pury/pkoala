@@ -1,2 +1,2 @@
-# PKoala
-HTML5 Game Engine
+# PLib
+PLib
