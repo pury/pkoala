@@ -25,12 +25,6 @@
 
 	ConstStringZH.PleaseSelectProduct = "请选择产品";
 
-	ConstStringZH.PidNull = "渠道不能为空";
-
-	ConstStringZH.PidSecondNull = "二级渠道不能为空";
-
-	ConstStringZH.ProductDespNull = "推广渠道描述不能为空";
-
 	window.ConstStringZH = ConstStringZH;
 
 })(window);

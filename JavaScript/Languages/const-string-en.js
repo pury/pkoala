@@ -25,12 +25,6 @@
 
 	ConstStringEN.PleaseSelectProduct = "Please select your product.";
 
-	ConstStringEN.PidNull = "渠道不能为空";
-
-	ConstStringEN.PidSecondNull = "二级渠道不能为空";
-
-	ConstStringEN.ProductDespNull = "推广渠道描述不能为空";
-
 	window.ConstStringEN = ConstStringEN;
 
 })(window);
